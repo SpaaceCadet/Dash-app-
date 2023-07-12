@@ -363,4 +363,4 @@ def my_interactive2(myselect):
         return figuro
 
 if __name__ == '__main__':
-    app.run_server(port=4050)
+    app.run_server(port=8080,debug=False)
